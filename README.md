@@ -1,4 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### `Live Deployed App`
 [Covid19-Tracker](https://covid19-tracker-bfdce.web.app/)
